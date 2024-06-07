@@ -1,21 +1,24 @@
 # Prudhvi Kollana 
 ## 🌐 Connect with me   
 <div align="center">  
-<a href="https://github.com/prudhvikollanapK" target="_blank">  
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />  
-</a>
 <a href="https://www.linkedin.com/in/prudhvikollanapk/" target="_blank">  
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />  
 </a>  
 <a href="https://prudhvi-kollana-portfolio.vercel.app/" target="_blank">  
-<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />  
+<img src="https://img.shields.io/badge/portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />  
 </a>
-<a href="https://www.instagram.com/_pk_as_prudhvikollana_/" target="_blank">  
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />  
-</a>   
-
-
-
+<a href="mailto:kprudhvi555777@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+</a>
+<a href="https://wa.me/917569875288?text=Hello%20Prudhvi" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp-%23F05032.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;" />
+</a>
+<a href="tel:+917569875288" target="_blank">
+<img src="https://img.shields.io/badge/call-%232C5263.svg?&style=for-the-badge&logo=phone&logoColor=white" alt="Call" style="margin-bottom: 5px;" />
+</a> 
+<a href="sms:+917569875288?body=Hello%20Prudhvi" target="_blank">
+<img src="https://img.shields.io/badge/sms-%232C5263.svg?&style=for-the-badge&logo=messaging&logoColor=white" alt="SMS" style="margin-bottom: 5px;" />
+</a>
 </div>   
 
 
