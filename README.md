@@ -3,29 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Prudhvi%20Kollana&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Agents&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header" />
 
-<a href="https://prudhvi-kollana-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1+I+build+scalable+backends+%26+polished+UIs;%F0%9F%A4%96+I+ship+LLM+apps+%26+autonomous+AI+agents;%F0%9F%9A%80+I+automate+delivery+with+CI%2FCD;%F0%9F%92%B3+I+engineer+secure+payment+platforms+at+scale" alt="typing" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/prudhvikollanapk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://prudhvi-kollana-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:kprudhvi555777@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/917569875288?text=Hello%20Prudhvi"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=prudhvikollanapK&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" />
-<img src="https://img.shields.io/github/followers/prudhvikollanapK?label=FOLLOWERS&style=flat-square&color=a78bfa&logo=github" />
-<img src="https://img.shields.io/github/stars/prudhvikollanapK?label=STARS&style=flat-square&color=fbbf24&logo=github" />
-
-</div>
 
 <br/>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-<h2 align="center">⚡ ABOUT ME</h2>
+## ⚡ ABOUT ME
 
 <table align="center">
 <tr>
@@ -62,7 +44,7 @@ const prudhvi = {
 </table>
 
 <!-- ═══════════════════════ SKILLS ═══════════════════════ -->
-<h2 align="center">🧠 TECH ARSENAL</h2>
+## 🧠 TECH ARSENAL
 
 <div align="center">
 
@@ -210,32 +192,135 @@ Procurement, financing and logistics workflows with secure, high-volume payment 
 </picture>
 
 </div>
+<!-- ═══════════════════════ EDUCATION + CONNECT (SIDE BY SIDE) ═══════════════════════ -->
 
-<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
-<h2 align="center">🎓 EDUCATION & CERTIFICATIONS</h2>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 Education & Certifications</h3>
+
+<table width="100%">
+<tr>
+<th width="20%"> </th>
+<th width="80%">Qualification</th>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://srkrec.edu.in">
+<img src="https://www.google.com/s2/favicons?domain=srkrec.edu.in&sz=128" width="44" height="44" alt="S.R.K.R. Engineering College">
+</a>
+</td>
+<td><strong>B.Tech</strong> · S.R.K.R. Engineering College · 2022 · 8.18 CGPA</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://cutshort.io">
+<img src="https://www.google.com/s2/favicons?domain=cutshort.io&sz=128" width="44" height="44" alt="Cutshort">
+</a>
+</td>
+<td>Python Skill Validation · <strong>Cutshort</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://ibm.com">
+<img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" width="44" height="44" alt="IBM">
+</a>
+</td>
+<td>Python (PY1010EN) · <strong>IBM</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://udemy.com">
+<img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=128" width="44" height="44" alt="Udemy">
+</a>
+</td>
+<td>Django, SQL & JavaScript · <strong>Udemy</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://scaler.com">
+<img src="https://www.google.com/s2/favicons?domain=scaler.com&sz=128" width="44" height="44" alt="Scaler">
+</a>
+</td>
+<td>DSA: Stacks & Queues · <strong>Scaler</strong></td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Let's Connect & Build Something Great</h3>
+
+<table width="100%">
+<tr>
+<th width="20%"> </th>
+<th width="80%">Reach out for</th>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/prudhvikollanapk/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44" alt="LinkedIn">
+</a>
+</td>
+<td>Networking and new opportunities</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://prudhvi-kollana-portfolio.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="44" alt="Portfolio">
+</a>
+</td>
+<td>Explore my projects and work</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="mailto:kprudhvi555777@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="44" alt="Email">
+</a>
+</td>
+<td>Job offers and project inquiries</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://wa.me/917569875288?text=Hello%20Prudhvi">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="44" height="44" alt="WhatsApp">
+</a>
+</td>
+<td>Quick chats and discussions</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/prudhvikollanapK">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" alt="GitHub">
+</a>
+</td>
+<td>Browse my code and repositories</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-| 🎓 | **B.Tech** · S.R.K.R. Engineering College · 2022 · 8.18 CGPA |
-|:-:|:--|
-| 🏅 | Python Skill Validation · **Cutshort** |
-| 🐍 | Python (PY1010EN) · **IBM** |
-| 🌐 | Django, SQL & JavaScript · **Udemy** |
-| 📚 | DSA: Stacks & Queues · **Scaler** |
-
-</div>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-<h2 align="center">🤝 LET'S BUILD SOMETHING</h2>
-
-<div align="center">
-
-<a href="mailto:kprudhvi555777@gmail.com"><img src="https://img.shields.io/badge/kprudhvi555777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/prudhvikollanapk/"><img src="https://img.shields.io/badge/in%2Fprudhvikollanapk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/917569875288?text=Hello%20Prudhvi"><img src="https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="tel:+917569875288"><img src="https://img.shields.io/badge/Call-2C5263?style=for-the-badge&logo=googlephone&logoColor=white" /></a>
-
-<br/><br/>
+### ✨ *Start where you are. Use what you have. Do what you can.*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=17&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&lines=Start+where+you+are.;Use+what+you+have.;Do+what+you+can." alt="quote" />
 
