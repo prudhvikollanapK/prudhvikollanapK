@@ -1,94 +1,244 @@
-# Prudhvi Kollana 
-## 🌐 Connect with me   
-<div align="center">  
-<a href="https://www.linkedin.com/in/prudhvikollanapk/" target="_blank">  
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />  
-</a>  
-<a href="https://prudhvi-kollana-portfolio.vercel.app/" target="_blank">  
-<img src="https://img.shields.io/badge/portfolio-%2308090A.svg?&style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />  
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Prudhvi%20Kollana&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Agents&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header" />
+
+<a href="https://prudhvi-kollana-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1+I+build+scalable+backends+%26+polished+UIs;%F0%9F%A4%96+I+ship+LLM+apps+%26+autonomous+AI+agents;%F0%9F%9A%80+I+automate+delivery+with+CI%2FCD;%F0%9F%92%B3+I+engineer+secure+payment+platforms+at+scale" alt="typing" />
 </a>
-<a href="mailto:kprudhvi555777@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
-</a>
-<a href="https://wa.me/917569875288?text=Hello%20Prudhvi" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp-%23F05032.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;" />
-</a>
-<a href="tel:+917569875288" target="_blank">
-<img src="https://img.shields.io/badge/call-%232C5263.svg?&style=for-the-badge&logo=phone&logoColor=white" alt="Call" style="margin-bottom: 5px;" />
-</a> 
-<a href="sms:+917569875288?body=Hello%20Prudhvi" target="_blank">
-<img src="https://img.shields.io/badge/sms-%232C5263.svg?&style=for-the-badge&logo=messaging&logoColor=white" alt="SMS" style="margin-bottom: 5px;" />
-</a>
-</div>   
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/prudhvikollanapk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://prudhvi-kollana-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:kprudhvi555777@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/917569875288?text=Hello%20Prudhvi"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=prudhvikollanapK&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" />
+<img src="https://img.shields.io/github/followers/prudhvikollanapK?label=FOLLOWERS&style=flat-square&color=a78bfa&logo=github" />
+<img src="https://img.shields.io/github/stars/prudhvikollanapK?label=STARS&style=flat-square&color=fbbf24&logo=github" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<h2 align="center">⚡ ABOUT ME</h2>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+```ts
+const prudhvi = {
+  role: "Full Stack Engineer | DevOps",
+  experience: "5+ years",
+  now: "Enterprise apps & AI automation @ Traecit",
+  before: "B2B fintech platform @ Tata Nexarc",
+  superpowers: [
+    "Microservices & REST APIs",
+    "Payments, wallets & billing flows",
+    "LLM apps & AI agents",
+    "CI/CD & cloud delivery",
+  ],
+  principle: "Clean, reliable, production-ready.",
+} as const;
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 🎯 What I do
+- 🏗️ Design **scalable, secure** backends
+- 🤖 Build **AI-powered** products & agents
+- 🔁 Automate **build → test → deploy**
+- 💳 Ship **high-volume payment** workflows
+- 📈 Tune **performance & reliability**
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
+<h2 align="center">🧠 TECH ARSENAL</h2>
+
+<div align="center">
+
+### 🔥 Daily Drivers
+<img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,django,spring,docker,aws&perline=9&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| | Category | Stack |
+|:-:|:--|:--|
+| 💬 | **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" /> |
+| 🎨 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,flutter,tailwind,bootstrap&theme=dark" /> |
+| ⚙️ | **Backend** | <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,spring&theme=dark" /> |
+| 🗄️ | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" /> ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
+| ☁️ | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux,git,github,vercel,cloudflare&theme=dark" /> |
+| 🔌 | **APIs & Integrations** | ![REST](https://img.shields.io/badge/REST-005571?style=flat-square&logo=postman&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![Meta](https://img.shields.io/badge/Meta%20API-0866FF?style=flat-square&logo=meta&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
+| 🤖 | **AI & GenAI** | ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square&logo=probot&logoColor=white) ![Agentic](https://img.shields.io/badge/Agentic%20Workflows-00B8A9?style=flat-square&logo=githubactions&logoColor=white) ![Prompting](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=flat-square&logo=openai&logoColor=white) |
+| 🛠️ | **Dev Tools** | <img src="https://skillicons.dev/icons?i=vscode,cursor,postman,firebase&theme=dark" /> ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| 📊 | **Analytics & SEO** | ![GA](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![GTM](https://img.shields.io/badge/Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white) ![GSC](https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white) |
+
+</div>
+
+<details>
+<summary><b>🏗️ Engineering concepts I work with</b></summary>
+<br/>
+
+<div align="center">
+
+`Microservices` · `RESTful APIs` · `System Design` · `Authentication & RBAC` · `Caching` · `Load Balancing` · `Queues` · `Rate Limiting` · `Performance Optimization` · `Distributed Systems` · `CI/CD` · `Web Scraping`
+
+</div>
+
+</details>
+
+## 📊 At a Glance
+
+<div align="center">
+
+| 🏆 5+ Years | 🏢 Enterprise Scale | 🤖 AI & Agents | ⚙️ DevOps |
+|:---:|:---:|:---:|:---:|
+| Professional experience | High-volume payment platforms | LLM apps & automation | Jenkins CI/CD pipelines |
+
+</div>
+
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+---
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Full Stack Developer — Traecit
+`Sep 2024 – Present`
+
+- 🧩 Enterprise apps, automation scripts & data-processing workflows
+- 🤖 AI solutions using **LLMs, AI APIs & agents**
+- ☁️ Cloud infrastructure, DevOps & **CI/CD** pipelines
+- 🔗 Third-party API, database & cloud integrations
+
+</td>
+<td width="50%" valign="top">
+
+### 🔶 Software Developer — Tata Nexarc
+`Jun 2022 – Sep 2024`
+
+- 🛒 Owned orders, invoices, wallets, payments & refunds flows
+- 💳 Secure payment workflows & high-volume transactions
+- 📲 Email + WhatsApp communication integrations
+- 🔄 Jenkins CI/CD, releases, monitoring & operations
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🎓 Early Career & Internships</b></summary>
+<br/>
+
+- **Programme Analyst Trainee — Cognizant** (Feb 2022 – May 2022)
+- **Full Stack Developer Intern — RocktAcademy** (Feb 2021 – Aug 2021)
+
+</details>
+
+---
 
 
-## 💻 Tech Stack:
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## 🚀 Featured Projects
 
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### 🧾 Clienter AI
+**AI-powered accounting workspace**
 
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=databricks&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Workflow automation, client engagement, document management, real-time messaging, team collaboration and role-based access in one platform.
 
-### 🔌 APIs & Integrations
-![REST API](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white)
-![SuprSend](https://img.shields.io/badge/SuprSend-6366F1?style=for-the-badge&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,django,java,docker,git&theme=dark" />
 
-### ☁️ DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### 🛠️ Tools & Services
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+### 🏭 Tata Nexarc
+**B2B digital platform for MSMEs**
 
+Procurement, financing and logistics workflows with secure, high-volume payment integrations across multiple business modules.
 
-### ✍️ Quote :
- > *Start where you are*
-> 
->  *Use what you have*
-> 
->  *Do what you can*
+<img src="https://skillicons.dev/icons?i=react,python,spring,aws,git&theme=dark" />
 
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=prudhvikollanapK&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvikollanapK&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=prudhvikollanapK&theme=radical&hide_border=true&border_radius=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prudhvikollanapK&theme=react-dark&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prudhvikollanapK&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prudhvikollanapK/prudhvikollanapK/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prudhvikollanapK/prudhvikollanapK/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/prudhvikollanapK/prudhvikollanapK/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
+<h2 align="center">🎓 EDUCATION & CERTIFICATIONS</h2>
+
+<div align="center">
+
+| 🎓 | **B.Tech** · S.R.K.R. Engineering College · 2022 · 8.18 CGPA |
+|:-:|:--|
+| 🏅 | Python Skill Validation · **Cutshort** |
+| 🐍 | Python (PY1010EN) · **IBM** |
+| 🌐 | Django, SQL & JavaScript · **Udemy** |
+| 📚 | DSA: Stacks & Queues · **Scaler** |
+
+</div>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<h2 align="center">🤝 LET'S BUILD SOMETHING</h2>
+
+<div align="center">
+
+<a href="mailto:kprudhvi555777@gmail.com"><img src="https://img.shields.io/badge/kprudhvi555777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/prudhvikollanapk/"><img src="https://img.shields.io/badge/in%2Fprudhvikollanapk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/917569875288?text=Hello%20Prudhvi"><img src="https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="tel:+917569875288"><img src="https://img.shields.io/badge/Call-2C5263?style=for-the-badge&logo=googlephone&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=17&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&lines=Start+where+you+are.;Use+what+you+have.;Do+what+you+can." alt="quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
+
+</div>
