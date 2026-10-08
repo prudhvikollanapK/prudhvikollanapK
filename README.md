@@ -3,59 +3,54 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Prudhvi%20Kollana&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Agents&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=640&lines=Building+scalable+backends;Shipping+AI-powered+products+%26+agents;Automating+build+%E2%86%92+test+%E2%86%92+deploy" alt="typing" />
 
-<br/>
+</div>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-## ⚡ ABOUT ME
+## ⚡ About Me
 
-<table align="center">
+> [!NOTE]
+> I'm a **Full Stack Engineer with 5+ years of experience** turning complex business problems into clean, reliable, production-ready systems. I work across the stack, from **payment-grade backends** and **CI/CD pipelines** to **LLM-powered products and AI agents**.
+
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="33%" valign="top" align="left">
 
-```ts
-const prudhvi = {
-  role: "Full Stack Engineer | DevOps",
-  experience: "5+ years",
-  now: "Enterprise apps & AI automation @ Traecit",
-  before: "B2B fintech platform @ Tata Nexarc",
-  superpowers: [
-    "Microservices & REST APIs",
-    "Payments, wallets & billing flows",
-    "LLM apps & AI agents",
-    "CI/CD & cloud delivery",
-  ],
-  principle: "Clean, reliable, production-ready.",
-} as const;
-```
+#### 🏗️ Engineer
+Scalable, secure **microservices & REST APIs** with solid auth, RBAC, caching and performance tuning.
 
 </td>
-<td width="45%" valign="top">
+<td width="33%" valign="top" align="left">
 
-### 🎯 What I do
-- 🏗️ Design **scalable, secure** backends
-- 🤖 Build **AI-powered** products & agents
-- 🔁 Automate **build → test → deploy**
-- 💳 Ship **high-volume payment** workflows
-- 📈 Tune **performance & reliability**
+#### 🤖 Automate
+**LLM apps, AI agents** and agentic workflows that remove manual effort from real business processes.
+
+</td>
+<td width="33%" valign="top" align="left">
+
+#### 🚀 Ship
+**Build → test → deploy** automation with Jenkins and cloud delivery, so releases stay fast and safe.
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
-## 🧠 TECH ARSENAL
+<p>
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-22d3ee?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Now-Traecit-a78bfa?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Previously-Tata%20Nexarc-f59e0b?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Payments%20%C2%B7%20DevOps-10b981?style=for-the-badge&labelColor=0d1117" />
+</p>
 
-<div align="center">
+<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
+## 🧠 Tech Arsenal
 
 ### 🔥 Daily Drivers
+
 <img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,django,spring,docker,aws&perline=9&theme=dark" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 | | Category | Stack |
 |:-:|:--|:--|
@@ -69,35 +64,26 @@ const prudhvi = {
 | 🛠️ | **Dev Tools** | <img src="https://skillicons.dev/icons?i=vscode,cursor,postman,firebase&theme=dark" /> ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
 | 📊 | **Analytics & SEO** | ![GA](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) ![GTM](https://img.shields.io/badge/Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white) ![GSC](https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white) |
 
-</div>
-
 <details>
 <summary><b>🏗️ Engineering concepts I work with</b></summary>
 <br/>
 
-<div align="center">
-
 `Microservices` · `RESTful APIs` · `System Design` · `Authentication & RBAC` · `Caching` · `Load Balancing` · `Queues` · `Rate Limiting` · `Performance Optimization` · `Distributed Systems` · `CI/CD` · `Web Scraping`
-
-</div>
 
 </details>
 
-## 📊 At a Glance
-
-<div align="center">
+## 📈 At a Glance
 
 | 🏆 5+ Years | 🏢 Enterprise Scale | 🤖 AI & Agents | ⚙️ DevOps |
 |:---:|:---:|:---:|:---:|
 | Professional experience | High-volume payment platforms | LLM apps & automation | Jenkins CI/CD pipelines |
 
-</div>
-
 <!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 ---
+
 ## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -135,11 +121,10 @@ const prudhvi = {
 
 ---
 
-
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -148,7 +133,18 @@ const prudhvi = {
 
 Workflow automation, client engagement, document management, real-time messaging, team collaboration and role-based access in one platform.
 
-<img src="https://skillicons.dev/icons?i=nextjs,django,java,docker,git&theme=dark" />
+**✨ Highlights**
+- 🤖 AI-assisted accounting workflows
+- 💬 Real-time messaging between teams & clients
+- 📁 Centralised document management
+- 🔐 Role-based access control (RBAC)
+- 👥 Built for team collaboration
+
+**🛠️ Built with**
+`Next.js` · `Django` · `Java` · `Docker` · `Git`
+
+**👤 My role**
+Full stack development: backend services, APIs, integrations and deployment.
 
 </td>
 <td width="50%" valign="top">
@@ -158,14 +154,27 @@ Workflow automation, client engagement, document management, real-time messaging
 
 Procurement, financing and logistics workflows with secure, high-volume payment integrations across multiple business modules.
 
-<img src="https://skillicons.dev/icons?i=react,python,spring,aws,git&theme=dark" />
+**✨ Highlights**
+- 🛒 Orders, invoices, wallets & refunds flows
+- 💳 Secure, high-volume payment workflows
+- 📲 Email + WhatsApp communication integrations
+- 🔄 Jenkins CI/CD, releases & monitoring
+- 🏢 Procurement, financing & logistics modules
+
+**🛠️ Built with**
+`React` · `Python` · `Spring Boot` · `AWS` · `Jenkins` · `Git`
+
+**👤 My role**
+Software Developer (Jun 2022 – Sep 2024): owned the payment and order lifecycle modules end to end.
 
 </td>
 </tr>
 </table>
 
+🔗 **More work:** [prudhvi-kollana-portfolio.vercel.app](https://prudhvi-kollana-portfolio.vercel.app/)
+
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -192,127 +201,69 @@ Procurement, financing and logistics workflows with secure, high-volume payment 
 </picture>
 
 </div>
-<!-- ═══════════════════════ EDUCATION + CONNECT (SIDE BY SIDE) ═══════════════════════ -->
+
+<!-- ═══════════════════════ EDUCATION + CONNECT (ONE TABLE = EQUAL SIZE) ═══════════════════════ -->
+## 🎓 Education & 🌐 Connect
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<h3>🎓 Education & Certifications</h3>
-
-<table width="100%">
-<tr>
-<th width="20%"> </th>
-<th width="80%">Qualification</th>
+<th colspan="2" align="left" width="50%">🎓 Education & Certifications</th>
+<th colspan="2" align="left" width="50%">🌐 Let's Connect & Build Something Great</th>
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://srkrec.edu.in">
-<img src="https://www.google.com/s2/favicons?domain=srkrec.edu.in&sz=128" width="44" height="44" alt="S.R.K.R. Engineering College">
-</a>
+<td align="center" width="8%">
+<a href="https://srkrec.edu.in"><img src="https://www.google.com/s2/favicons?domain=srkrec.edu.in&sz=128" width="40" height="40" alt="S.R.K.R. Engineering College"></a>
 </td>
-<td><strong>B.Tech</strong> · S.R.K.R. Engineering College · 2022 · 8.18 CGPA</td>
+<td width="42%"><strong>B.Tech</strong> · S.R.K.R. Engineering College · 2022 · 8.18 CGPA</td>
+<td align="center" width="8%">
+<a href="https://www.linkedin.com/in/prudhvikollanapk/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"></a>
+</td>
+<td width="42%">Networking and new opportunities</td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="https://cutshort.io">
-<img src="https://www.google.com/s2/favicons?domain=cutshort.io&sz=128" width="44" height="44" alt="Cutshort">
-</a>
+<a href="https://cutshort.io"><img src="https://www.google.com/s2/favicons?domain=cutshort.io&sz=128" width="40" height="40" alt="Cutshort"></a>
 </td>
 <td>Python Skill Validation · <strong>Cutshort</strong></td>
-</tr>
-
-<tr>
 <td align="center">
-<a href="https://ibm.com">
-<img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" width="44" height="44" alt="IBM">
-</a>
-</td>
-<td>Python (PY1010EN) · <strong>IBM</strong></td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://udemy.com">
-<img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=128" width="44" height="44" alt="Udemy">
-</a>
-</td>
-<td>Django, SQL & JavaScript · <strong>Udemy</strong></td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://scaler.com">
-<img src="https://www.google.com/s2/favicons?domain=scaler.com&sz=128" width="44" height="44" alt="Scaler">
-</a>
-</td>
-<td>DSA: Stacks & Queues · <strong>Scaler</strong></td>
-</tr>
-
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🌐 Let's Connect & Build Something Great</h3>
-
-<table width="100%">
-<tr>
-<th width="20%"> </th>
-<th width="80%">Reach out for</th>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/prudhvikollanapk/">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="44" alt="LinkedIn">
-</a>
-</td>
-<td>Networking and new opportunities</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://prudhvi-kollana-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="44" alt="Portfolio">
-</a>
+<a href="https://prudhvi-kollana-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" height="40" alt="Portfolio"></a>
 </td>
 <td>Explore my projects and work</td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="mailto:kprudhvi555777@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="44" alt="Email">
-</a>
+<a href="https://ibm.com"><img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" width="40" height="40" alt="IBM"></a>
+</td>
+<td>Python (PY1010EN) · <strong>IBM</strong></td>
+<td align="center">
+<a href="mailto:kprudhvi555777@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Email"></a>
 </td>
 <td>Job offers and project inquiries</td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="https://wa.me/917569875288?text=Hello%20Prudhvi">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="44" height="44" alt="WhatsApp">
-</a>
+<a href="https://udemy.com"><img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=128" width="40" height="40" alt="Udemy"></a>
+</td>
+<td>Django, SQL & JavaScript · <strong>Udemy</strong></td>
+<td align="center">
+<a href="https://wa.me/917569875288?text=Hello%20Prudhvi"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"></a>
 </td>
 <td>Quick chats and discussions</td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="https://github.com/prudhvikollanapK">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" alt="GitHub">
-</a>
+<a href="https://scaler.com"><img src="https://www.google.com/s2/favicons?domain=scaler.com&sz=128" width="40" height="40" alt="Scaler"></a>
+</td>
+<td>DSA: Stacks & Queues · <strong>Scaler</strong></td>
+<td align="center">
+<a href="https://github.com/prudhvikollanapK"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub"></a>
 </td>
 <td>Browse my code and repositories</td>
-</tr>
-
-</table>
-
-</td>
 </tr>
 </table>
 
