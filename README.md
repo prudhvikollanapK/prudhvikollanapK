@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Prudhvi%20Kollana&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Agents&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/prudhvikollanapK/prudhvikollanapK/main/assets/header.svg" width="100%" alt="Prudhvi Kollana - Full Stack Engineer, DevOps, AI Agents" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=640&lines=Building+scalable+backends;Shipping+AI-powered+products+%26+agents;Automating+build+%E2%86%92+test+%E2%86%92+deploy" alt="typing" />
 
@@ -275,6 +275,6 @@ Software Developer (Jun 2022 – Sep 2024): owned the payment and order lifecycl
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=17&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&lines=Start+where+you+are.;Use+what+you+have.;Do+what+you+can." alt="quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/prudhvikollanapK/prudhvikollanapK/main/assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
