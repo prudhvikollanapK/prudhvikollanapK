@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Prudhvi Kollana - Full Stack Engineer, DevOps, AI Agents" />
+<img src="header.svg" width="100%" alt="Prudhvi Kollana - Full Stack Engineer, DevOps, AI Agents" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=640&lines=Building+scalable+backends;Shipping+AI-powered+products+%26+agents;Automating+build+%E2%86%92+test+%E2%86%92+deploy" alt="typing" />
 
