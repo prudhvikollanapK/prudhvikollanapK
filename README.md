@@ -275,6 +275,6 @@ Software Developer (Jun 2022 – Sep 2024): owned the payment and order lifecycl
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=17&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&lines=Start+where+you+are.;Use+what+you+have.;Do+what+you+can." alt="quote" />
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
+<img src="footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
