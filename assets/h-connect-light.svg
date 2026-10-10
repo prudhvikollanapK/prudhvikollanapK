@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 92" width="1000" height="92" role="img" aria-label="Education. And let’s connect."><defs>
+<linearGradient id="gt" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#2997ff"/><stop offset="0.4" stop-color="#bf5af2"/><stop offset="0.75" stop-color="#ff375f"/><stop offset="1" stop-color="#ff9f0a"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2000 0" dur="24s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a84ff"/><stop offset="1" stop-color="#bf5af2"/></linearGradient>
+<linearGradient id="gc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a84ff"/><stop offset="1" stop-color="#5e5ce6"/></linearGradient>
+</defs><style>text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Helvetica Neue',Helvetica,'Segoe UI',Arial,sans-serif}</style><text x="2" y="64" font-size="46.0" font-weight="700" letter-spacing="-1.2" fill="#1d1d1f">Education.<tspan fill="#86868b" dx="14">And let’s connect.</tspan></text></svg>

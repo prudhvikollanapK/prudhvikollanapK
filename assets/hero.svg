@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="1000" height="640" role="img" aria-label="Prudhvi Kollana, Full Stack Engineer"><defs>
+<linearGradient id="gt" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#2997ff"/><stop offset="0.4" stop-color="#bf5af2"/><stop offset="0.75" stop-color="#ff375f"/><stop offset="1" stop-color="#ff9f0a"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2000 0" dur="24s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a84ff"/><stop offset="1" stop-color="#bf5af2"/></linearGradient>
+<linearGradient id="gc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a84ff"/><stop offset="1" stop-color="#5e5ce6"/></linearGradient>
+
+<radialGradient id="r1"><stop offset="0" stop-color="#0a84ff" stop-opacity=".55"/><stop offset="1" stop-color="#0a84ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="r2"><stop offset="0" stop-color="#bf5af2" stop-opacity=".5"/><stop offset="1" stop-color="#bf5af2" stop-opacity="0"/></radialGradient>
+<radialGradient id="r3"><stop offset="0" stop-color="#ff375f" stop-opacity=".38"/><stop offset="1" stop-color="#ff375f" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="1000" height="640" rx="28"/></clipPath></defs><style>text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Helvetica Neue',Helvetica,'Segoe UI',Arial,sans-serif}
+.a{animation:a 14s ease-in-out infinite alternate}.b{animation:b 17s ease-in-out infinite alternate}.c{animation:c 20s ease-in-out infinite alternate}
+@keyframes a{to{transform:translate(180px,40px)}}@keyframes b{to{transform:translate(-200px,-30px)}}@keyframes c{to{transform:translate(-120px,40px)}}
+.in{opacity:0;animation:in 1.2s cubic-bezier(.2,.7,.2,1) forwards}@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}</style><g clip-path="url(#c)"><rect width="1000" height="640" fill="#000"/>
+<circle class="a" cx="180" cy="160" r="330" fill="url(#r1)"/><circle class="b" cx="820" cy="260" r="340" fill="url(#r2)"/><circle class="c" cx="520" cy="470" r="300" fill="url(#r3)"/>
+<rect x="0" y="508" width="1000" height="1" fill="#fff" fill-opacity=".14"/>
+<g class="in" style="animation-delay:.1s"><text x="500" y="138" font-size="21" font-weight="600" fill="#f5f5f7" text-anchor="middle" letter-spacing="0.2" fill-opacity=".72">Full Stack Engineer  ·  DevOps  ·  AI Agents</text></g>
+<g class="in" style="animation-delay:.3s"><text x="500" y="248" font-size="92" font-weight="700" fill="url(#gt)" text-anchor="middle" letter-spacing="-3.5" >Prudhvi Kollana.</text></g>
+<g class="in" style="animation-delay:.55s"><text x="500" y="326" font-size="36" font-weight="600" fill="#f5f5f7" text-anchor="middle" letter-spacing="-0.6" >Payments. AI agents. Production-grade.</text>
+<text x="500" y="372" font-size="20" font-weight="400" fill="#86868b" text-anchor="middle" letter-spacing="0" >5+ years turning complex business problems into clean, reliable software.</text></g>
+<g class="in" style="animation-delay:.8s"><rect x="314" y="414" width="196" height="50" rx="25" fill="#0071e3"/><text x="412" y="446" font-size="18" font-weight="500" fill="#fff" text-anchor="middle" letter-spacing="0" >Explore my work</text>
+<text x="548" y="446" font-size="18" font-weight="500" fill="#2997ff" text-anchor="start" letter-spacing="0" >Get in touch ›</text></g>
+<text x="125" y="566" font-size="28" font-weight="700" fill="#f5f5f7" text-anchor="middle" letter-spacing="-0.5" >5+</text><text x="125" y="592" font-size="14" font-weight="400" fill="#86868b" text-anchor="middle" letter-spacing="0" >Years building</text><text x="375" y="566" font-size="28" font-weight="700" fill="#f5f5f7" text-anchor="middle" letter-spacing="-0.5" >High-volume</text><text x="375" y="592" font-size="14" font-weight="400" fill="#86868b" text-anchor="middle" letter-spacing="0" >Payment platforms</text><rect x="250" y="538" width="1" height="62" fill="#fff" fill-opacity=".14"/><text x="625" y="566" font-size="28" font-weight="700" fill="#f5f5f7" text-anchor="middle" letter-spacing="-0.5" >LLM</text><text x="625" y="592" font-size="14" font-weight="400" fill="#86868b" text-anchor="middle" letter-spacing="0" >Apps &amp; AI agents</text><rect x="500" y="538" width="1" height="62" fill="#fff" fill-opacity=".14"/><text x="875" y="566" font-size="28" font-weight="700" fill="#f5f5f7" text-anchor="middle" letter-spacing="-0.5" >CI/CD</text><text x="875" y="592" font-size="14" font-weight="400" fill="#86868b" text-anchor="middle" letter-spacing="0" >Jenkins pipelines</text><rect x="750" y="538" width="1" height="62" fill="#fff" fill-opacity=".14"/></g></svg>
